@@ -6,7 +6,7 @@ sections:
     title: Välkommen till din lokala IT-partner.
     content: |
       Alla dina behov med IT-utveckling, support med hårdvaruinstallation.
-    image: /images/Untitled design(9).png
+    image: /images/hero.png
     image_alt: App preview
     actions:
       - type: action
