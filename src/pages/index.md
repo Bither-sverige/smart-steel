@@ -105,7 +105,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - type: action
-        label: Get Started
+        label: få ett erbjudande
         url: /signup
         style: primary
   - type: section_posts
