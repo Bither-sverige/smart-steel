@@ -5,7 +5,7 @@
     "header": {
         "type": "header",
         "logo_img": "/images/Bither Sverige.png",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "Bither Sverige",
         "has_nav": true,
         "nav_links": [
             {
