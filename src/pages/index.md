@@ -17,8 +17,9 @@ sections:
     section_id: features
     title: Vad behöver du hjälp med?
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      behöver du teknisk support på kort eller lång tid i olika arbetsmiljöer?
+      Vill du bygga en ny webbplats eller försöka ändra din plattform? eller
+      behöver du samråd med det i ditt företag.
     background: gray
     features:
       - type: feature_item
