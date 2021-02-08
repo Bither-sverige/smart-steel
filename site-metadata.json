@@ -35,7 +35,7 @@
             {
                 "type": "action",
                 "label": "Kontakta oss",
-                "url": "//contact",
+                "url": "/contact",
                 "style": "primary"
             }
         ]
