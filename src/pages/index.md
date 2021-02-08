@@ -15,7 +15,7 @@ sections:
         style: primary
   - type: section_features
     section_id: features
-    title: Features
+    title: Vad behöver du hjälp med?
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
