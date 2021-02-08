@@ -34,7 +34,7 @@ sections:
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
-            label: Learn More
+            label: Gr
             url: /contact
             style: secondary
             has_icon: true
