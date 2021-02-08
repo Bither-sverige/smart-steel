@@ -17,7 +17,7 @@ sections:
     section_id: features
     title: Vad behöver du hjälp med?
     subtitle: >-
-      behöver du teknisk support på kort eller lång tid i olika arbetsmiljöer?
+      Behöver du teknisk support på kort eller lång tid i olika arbetsmiljöer?
       Vill du bygga en ny webbplats eller försöka ändra din plattform? eller
       behöver du samråd med det i ditt företag.
     background: gray
