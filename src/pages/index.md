@@ -28,7 +28,7 @@ sections:
           Idag finns det många lösningar online för e-handelswebbformat. Vad vi
           gör är att vi analyserar din företagsbakgrund och arbetsflödet då ger
           vi dig den bästa och priseffektiva lösningen för din organisation.
-          Analysen blir fri. Vi är erfarna utvecklare i Wordpress till Magento
+          Analysen blir fri! Vi är erfarna utvecklare i Wordpress till Magento
           eller med statiska webbplatser med hög hastighet för ehandel. Ring oss
           idag och boka en tid!
         image: /images/robust-eucalyptus.png
