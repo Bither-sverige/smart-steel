@@ -133,7 +133,7 @@ sections:
     background: gray
 seo:
   type: stackbit_page_meta
-  title: Stackbit Azimuth Theme
+  title: Bither Sverige
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
