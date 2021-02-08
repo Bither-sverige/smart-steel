@@ -34,7 +34,7 @@
             },
             {
                 "type": "action",
-                "label": "Sign Up",
+                "label": "C",
                 "url": "/signup",
                 "style": "primary"
             }
