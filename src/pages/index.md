@@ -134,7 +134,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Bither Sverige
-  description: din lokala IT-partner
+  description: Din lokala IT-partner
   extra:
     - name: 'og:type'
       value: website
