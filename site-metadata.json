@@ -16,7 +16,7 @@
             },
             {
                 "type": "action",
-                "label": "tjänster ",
+                "label": "Tjänster ",
                 "url": "/features",
                 "style": "link"
             },
