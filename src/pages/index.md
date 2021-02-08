@@ -4,9 +4,8 @@ sections:
   - type: section_hero
     section_id: MainBanner
     title: Välkommen till din lokala IT-partner.
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Alla dina behov med IT-utveckling, support med hårdvaruinstallation.
     image: images/hero.png
     image_alt: App preview
     actions:
