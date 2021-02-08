@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: section_hero
     section_id: MainBanner
-    title: This Is A Big Hero Headline
+    title: Välkommen till din lokala IT-partner.
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
