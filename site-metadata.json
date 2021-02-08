@@ -16,7 +16,7 @@
             },
             {
                 "type": "action",
-                "label": "Tjänster ",
+                "label": "Tjänster",
                 "url": "/features",
                 "style": "link"
             },
