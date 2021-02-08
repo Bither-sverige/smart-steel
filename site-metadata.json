@@ -34,7 +34,7 @@
             },
             {
                 "type": "action",
-                "label": "C",
+                "label": "Kontakta oss",
                 "url": "/signup",
                 "style": "primary"
             }
