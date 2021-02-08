@@ -23,10 +23,13 @@ sections:
     features:
       - type: feature_item
         title: E-handel
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Idag finns det många lösningar online för e-handelswebbformat. Vad vi
+          gör är att vi analyserar din företagsbakgrund och arbetsflödet då ger
+          vi dig den bästa och priseffektiva lösningen för din organisation.
+          Analysen blir fri. Vi är erfarna utvecklare i Wordpress till Magento
+          eller med statiska webbplatser med hög hastighet för ehandel. Ring oss
+          idag och boka en tid!
         image: /images/robust-eucalyptus.png
         image_alt: App preview on a phone and tablet
         actions:
