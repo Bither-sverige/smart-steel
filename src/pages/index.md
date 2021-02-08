@@ -106,7 +106,7 @@ sections:
     actions:
       - type: action
         label: få ett erbjudande
-        url: /signup
+        url: /contact
         style: primary
   - type: section_posts
     section_id: recent-posts
